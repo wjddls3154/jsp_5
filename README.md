@@ -13,7 +13,7 @@
       
       y = false; // false 이면, 0의 값이 출력된다.
       
-      // 변수 이용한 and,or,not연산자
+      // 변수 이용한 and, or, not 연산자
       
       document.write("1: ", x && y); // and
       
